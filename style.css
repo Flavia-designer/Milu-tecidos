@@ -15,7 +15,7 @@ body{
     flex-direction: column;
     margin: 0;
     background-color: #fff;
-    height: 100vh;
+    height: 100dvh;
 }
 
 
@@ -73,7 +73,7 @@ p{
     background-size:auto; 
     background-position: center;
     margin: 0 auto;
-    height: 100vh;
+    height: 100dvh;
 }
 
 
