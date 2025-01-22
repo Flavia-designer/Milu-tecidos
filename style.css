@@ -73,6 +73,8 @@ p{
     background-size:auto; 
     background-position: center;
     border-radius: 8px;
+    margin: 0 auto;
+    height: 100vh;
 }
 
 
